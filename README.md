@@ -1,4 +1,4 @@
-[<h2 align="left">Hi 👋! My name is Beatriz and I'm a Data Analyst.</h2>
+<h2 align="left">Hi 👋! My name is Beatriz and I'm a Data Analyst.</h2>
 
 ###
 
@@ -27,4 +27,3 @@
 </div>
 
 ###
-](https://profile-readme-generator.com/result)
